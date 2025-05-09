@@ -16,6 +16,9 @@
 - [📊 FBI Crime Data Analysis Tool](https://github.com/msmith150/Crime-and-Terrorism-Tools)
   Python tool to analyze FBI crime data.
 
+- [📊 Water & Conflict Analysisl](https://github.com/msmith150/Water-Conflict-Analysis)
+  Data Analysis of the Relationship Between Conflict and Water Scarcity
+
 
 
 
