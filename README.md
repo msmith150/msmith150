@@ -19,6 +19,9 @@
 - [📊 Water & Conflict Analysisl](https://github.com/msmith150/Water-Conflict-Analysis)
   Data Analysis of the Relationship Between Conflict and Water Scarcity
 
+- [📊 Post COVID Protest Analysisl](https://github.com/msmith150/ACLED-Events-Dashboard)
+  A visual dashboard showing post COVID ACLED events
+
 
 
 
