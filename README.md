@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Matthew Smith
 
-<!--
-**msmith150/msmith150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 25+ years in national security, intelligence, and counterintelligence  
+🔍 Transitioning to the private sector with a focus on Open Source Intelligence, Data Analysis, Cyber Security, and Risk Management  
+🔐 Top Secret/SCI Clearance | Advanced CI & HUMINT Training | Data Analytics and Cybersecurity Certifications 
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- **Languages**: Python, SQL, R (basic), Bash
+- **Tools**: Jupyter, Pandas, Power BI, Excel, Scikit-learn, OSINT tools
+- **Specialties**: Threat assessment, intelligence lifecycle, data analysis, risk scoring models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [⚠️ Terrorism News Webscraper](https://github.com/msmith150/Crime-and-Terrorism-Tools)
+  Python tool to scrape news sites for information regarding terrorism
+
+- [📊 FBI Crime Data Analysis Tool](https://github.com/msmith150/Crime-and-Terrorism-Tools)
+  Python tool to analyze FBI crime data.
+
+
+
+
