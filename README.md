@@ -71,6 +71,9 @@
 
  
 ## 📂 Featured Projects
+- [⚠️ Open Source Intelligence Resources](https://github.com/msmith150/Open-Source-Intelligence-Resources)
+  A collection of various OSINT tools and resources
+  
 - [⚠️ Terrorism News Webscraper](https://github.com/msmith150/Crime-and-Terrorism-Tools)
   Python tool to scrape news sites for information regarding terrorism
 
