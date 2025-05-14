@@ -2,7 +2,7 @@
 
 🎯 25+ years in national security                                                                            
 🔍 Focus on Open Source Intelligence, Data Analysis, Cyber Security, Critical Infrastructure Protection, and Risk Management  
-🔐 Advanced Intelligence Training | Data Analytics and Cybersecurity Certifications 
+🔐 OSINT and Analysis Training | Data Analytics and Cybersecurity Certifications 
 
 ## 🚀 Skills & Tools
 
