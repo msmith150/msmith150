@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matt Smith
+# 👋 Hi, I'm Matt
 
 🎯 25+ years in national security                                                                            
 🔍 Focus on Open Source Intelligence, Data Analysis, Cyber Security, Critical Infrastructure Protection, and Risk Management  
