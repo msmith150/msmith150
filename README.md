@@ -4,7 +4,7 @@
 
 🔍 My main interests are in OSINT, Data Analysis, Intelligence Analysis, Cyber Security, Critical Infrastructure Protection, Insider Threat, Behavioral Threat Assessments, and Threat & Risk Management.  Hoping to learn more about coding, ethical hacking, and incorporating AI in OSINT. 
 
-🎯 My goal is to document and share OSINT and analytical resources and tips I find useful.  Some of these are forked from other contributors and modified by me, some are my own, all are helpful. 
+🎯 My goal here is to document and share OSINT and analytical resources and tips I find useful.  Some of these are forked from other contributors and modified by me, some are my own, all are helpful. 
 
 ## 🚀 Skills & Tools
 
