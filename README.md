@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Matt
+# 👋 Hi, I'm msmith150
 
-🎯 25+ years in national security                                                                            
-🔍 Focus on Open Source Intelligence, Data Analysis, Cyber Security, Critical Infrastructure Protection, and Risk Management  
-🔐 OSINT and Analysis Training | Data Analytics and Cybersecurity Certifications 
+🎯 I have over 25 years in national security investigations & operations and now work in Open Source Intelligence (OSINT)                      
+🔍 Interest in OSINT, Data Analysis, Intelligence Analysis, Cyber Security, Critical Infrastructure Protection, and Threat & Risk Management 
 
 ## 🚀 Skills & Tools
 
